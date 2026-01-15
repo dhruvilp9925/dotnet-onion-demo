@@ -1,0 +1,15 @@
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\bin\Debug\net10.0\OnionDemo.Application.deps.json
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\bin\Debug\net10.0\OnionDemo.Application.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\bin\Debug\net10.0\OnionDemo.Application.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\bin\Debug\net10.0\OnionDemo.Domain.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\bin\Debug\net10.0\OnionDemo.Domain.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\OnionDemo.Application.csproj.AssemblyReference.cache
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\OnionDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\OnionDemo.Application.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\OnionDemo.Application.AssemblyInfo.cs
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\OnionDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\OnionDem.C0BD6C0C.Up2Date
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\OnionDemo.Application.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\refint\OnionDemo.Application.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\OnionDemo.Application.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Application\obj\Debug\net10.0\ref\OnionDemo.Application.dll

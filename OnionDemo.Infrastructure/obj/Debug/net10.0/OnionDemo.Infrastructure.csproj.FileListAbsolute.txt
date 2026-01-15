@@ -1,0 +1,17 @@
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\bin\Debug\net10.0\OnionDemo.Infrastructure.deps.json
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\bin\Debug\net10.0\OnionDemo.Infrastructure.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\bin\Debug\net10.0\OnionDemo.Infrastructure.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\bin\Debug\net10.0\OnionDemo.Application.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\bin\Debug\net10.0\OnionDemo.Domain.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\bin\Debug\net10.0\OnionDemo.Domain.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\bin\Debug\net10.0\OnionDemo.Application.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\OnionDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\OnionDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\OnionDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\OnionDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\OnionDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\OnionDem.23E62256.Up2Date
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\OnionDemo.Infrastructure.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\refint\OnionDemo.Infrastructure.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\OnionDemo.Infrastructure.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Infrastructure\obj\Debug\net10.0\ref\OnionDemo.Infrastructure.dll

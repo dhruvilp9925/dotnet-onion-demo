@@ -1,0 +1,11 @@
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\bin\Debug\net10.0\OnionDemo.Domain.deps.json
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\bin\Debug\net10.0\OnionDemo.Domain.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\bin\Debug\net10.0\OnionDemo.Domain.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\obj\Debug\net10.0\OnionDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\obj\Debug\net10.0\OnionDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\obj\Debug\net10.0\OnionDemo.Domain.AssemblyInfo.cs
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\obj\Debug\net10.0\OnionDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\obj\Debug\net10.0\OnionDemo.Domain.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\obj\Debug\net10.0\refint\OnionDemo.Domain.dll
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\obj\Debug\net10.0\OnionDemo.Domain.pdb
+C:\Users\Intel\Desktop\dhruvil\OnionDemo\OnionDemo.Domain\obj\Debug\net10.0\ref\OnionDemo.Domain.dll
